@@ -1,0 +1,15 @@
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\bin\Debug\net8.0\Proyecto_Estudiantes.exe
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\bin\Debug\net8.0\Proyecto_Estudiantes.deps.json
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\bin\Debug\net8.0\Proyecto_Estudiantes.runtimeconfig.json
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\bin\Debug\net8.0\Proyecto_Estudiantes.dll
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\bin\Debug\net8.0\Proyecto_Estudiantes.pdb
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.AssemblyInfo.cs
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.sourcelink.json
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.dll
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\refint\Proyecto_Estudiantes.dll
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.pdb
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\Proyecto_Estudiantes.genruntimeconfig.cache
+C:\Users\salak301\Downloads\CL10_PS8_1026\Proyecto_Estudiantes\obj\Debug\net8.0\ref\Proyecto_Estudiantes.dll
