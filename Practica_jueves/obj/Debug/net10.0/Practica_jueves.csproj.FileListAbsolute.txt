@@ -1,0 +1,15 @@
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\bin\Debug\net10.0\Practica_jueves.exe
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\bin\Debug\net10.0\Practica_jueves.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\bin\Debug\net10.0\Practica_jueves.runtimeconfig.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\bin\Debug\net10.0\Practica_jueves.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\bin\Debug\net10.0\Practica_jueves.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.sourcelink.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\refint\Practica_jueves.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\Practica_jueves.genruntimeconfig.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\CL10_PS8_1026\Practica_jueves\obj\Debug\net10.0\ref\Practica_jueves.dll
