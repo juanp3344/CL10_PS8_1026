@@ -32,13 +32,27 @@ nota.notaF = Calculos.Promedio(nota);
 
 Console.WriteLine("Nota final: " + nota.notaF);
 
-
+decimal descuento = Calculos.Descuento(lista_Estudiantes[1], lista_grupos);
+Console.WriteLine("Descuento que se va aplicar al estudiante: " + lista_Estudiantes[1].nombre + "\nEs: "+ descuento);
 
 public class Calculos
 {
     public static decimal Promedio(Notas notas)
     {
         return (notas.nota1+notas.nota2+notas.nota3+notas.nota4+notas.nota5)/5;
+    }
+
+    public static decimal Descuento(Estudiantes estudiante, List<Grupos> grupos)
+    {
+        decimal descuento;
+
+        var GrupoEncontrado = grupos.FirstOrDefault(Grupo => Grupo.id == estudiante.grupo);
+        
+        if(GrupoEncontrado!= null)
+        {
+            return GrupoEncontrado.descuento;
+        }
+        return 0m;
     }
 
 }
